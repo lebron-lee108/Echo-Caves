@@ -1,6 +1,12 @@
 # VP515 Unity 项目
 
-四人 Game Development 课程项目。Windows PC、2D 横版平台解谜；少女与蝴蝶双形态。当前版本是开发前置工程，不代表第一章玩法已经实现。
+四人 Game Development 课程项目。Windows PC、2D 横版平台解谜；少女与蝴蝶双形态。当前本地 `feature/chapter-one-slice` 已有第一章第一小节的可玩审阅候选，团队尚未验收；远程main仍为早期前置工程，不自动合并。
+
+## 当前可玩切片
+
+打开 `Assets/_VP515/Scenes/ChapterOneSlice.unity`，按Play，再点Start Journey。使用非像素绘画式美术、分层视差和落叶；含行走/跳跃、蝴蝶脱壳压板机关、近战小怪、治疗露珠、菜单/暂停/背包/设置、失败恢复和结尾重玩。操作与路线见 [切片试玩说明](Docs/Slice/Play-Guide.md)，夜间断点见 [制作记录](Docs/Slice/Night-Progress.md)。
+
+以下Foundation说明保留为最初工程配置记录，不是新切片的画风、采样或构建入口。切片使用Bilinear，不使用PixelPerfect；正式美术品质与陌生玩家体验仍待审阅。
 
 团队公开仓库：https://github.com/lebron-lee108/VP515 。公开访问允许查看和克隆，不代表可以直接推送。三名组员必须用自己的账号接受 Collaborator 邀请，获得 Write 权限后再参与提交。
 

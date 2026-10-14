@@ -39,3 +39,9 @@ Thumbs.db
 *.jks
 # Package manifests AND packages-lock.json remain tracked.
 # Assets, scenes, prefabs and their .meta files remain tracked.
+# Local reference footage frames are not project assets.
+/Evidence/ReferenceVideo-20261015/
+/.superpowers/
+# Raw frame sequences are local capture intermediates; keep the final preview local too.
+/Evidence/Slice/DynamicPreviewV*/
+/Evidence/Slice/*.mp4

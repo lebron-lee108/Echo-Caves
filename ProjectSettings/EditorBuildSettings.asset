@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_VP515/Scenes/ChapterOneSlice.unity
+    guid: e221099e35d453c4c9ecbcf9f531a8e8
+  - enabled: 0
     path: Assets/_VP515/Scenes/Foundation.unity
     guid: 62b686f1c527e9e4d9cda9c9ce90871f
   m_configObjects:

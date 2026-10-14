@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 76c2fb5519bd2c241a078c23d1e4a2a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2930613150042361524
+    second: SceneryAtlas_0
+  - first:
+      213: 2992866948414709454
+    second: SceneryAtlas_1
+  - first:
+      213: 2021044319961676513
+    second: SceneryAtlas_2
+  - first:
+      213: 6813290119135232909
+    second: SceneryAtlas_3
+  - first:
+      213: 6973814334218237396
+    second: SceneryAtlas_4
+  - first:
+      213: -8155761849250998755
+    second: SceneryAtlas_5
+  - first:
+      213: 6910896412147329489
+    second: SceneryAtlas_6
+  - first:
+      213: -6206736946523812794
+    second: SceneryAtlas_7
+  - first:
+      213: -157491551572661674
+    second: SceneryAtlas_8
+  - first:
+      213: 8052664034599815047
+    second: SceneryAtlas_9
+  - first:
+      213: 5483207877476013490
+    second: SceneryAtlas_10
+  - first:
+      213: -8584849653697388855
+    second: SceneryAtlas_11
+  - first:
+      213: -4936000107944846014
+    second: SceneryAtlas_12
+  - first:
+      213: 2741217338084201527
+    second: SceneryAtlas_13
+  - first:
+      213: -2990411913274439061
+    second: SceneryAtlas_14
+  - first:
+      213: -3031687825961120831
+    second: SceneryAtlas_15
+  - first:
+      213: -5427664444707185972
+    second: SceneryAtlas_16
+  - first:
+      213: 6891515646007288148
+    second: SceneryAtlas_17
+  - first:
+      213: -7190076711879772589
+    second: SceneryAtlas_18
+  - first:
+      213: 160332519516707456
+    second: SceneryAtlas_19
+  - first:
+      213: -2050332575023414759
+    second: SceneryAtlas_20
+  - first:
+      213: 3785621347800213899
+    second: SceneryAtlas_21
+  - first:
+      213: -1378087991914489431
+    second: SceneryAtlas_22
+  - first:
+      213: -4102628075220204903
+    second: SceneryAtlas_23
+  - first:
+      213: 7740850291507012491
+    second: SceneryAtlas_24
+  - first:
+      213: 1447487456744616870
+    second: SceneryAtlas_25
+  - first:
+      213: -5662983676672985416
+    second: SceneryAtlas_26
+  - first:
+      213: -430676805649161272
+    second: SceneryAtlas_27
+  - first:
+      213: -1737596919940707913
+    second: SceneryAtlas_28
+  - first:
+      213: -534267262590752768
+    second: SceneryAtlas_29
+  - first:
+      213: 4561382379559570320
+    second: SceneryAtlas_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeadTree
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 435
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a00b0f6664db4b8016423ffceed94
+      internalID: 1848427401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RootPlatform
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 440
+        width: 490
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd81341b9f09f4790e6b87062d6db0
+      internalID: -1481994100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPlatform
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 433
+        width: 463
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47b678cece1ee48a40216ae1e70208
+      internalID: 330444643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenGrass
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 425
+        width: 379
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a29db3c5d70e4fba319ac8f0ef94e
+      internalID: 371652222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckpointLantern
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 345
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60693ffd11f3c419235567b050ff5a
+      internalID: -1871856785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneGate
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 475
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2aa46cb5ba3d74db84fc2aadb87b13
+      internalID: -490363481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigilStone
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 420
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835433fa98c30424992a8cba4c3106b3
+      internalID: -712544272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butterfly
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 0
+        width: 429
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84d0b7cee3fe9641891574512007fb5
+      internalID: -1587337340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b807fc8fe2c9274ebe10cb145a0ced2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Butterfly: -1587337340
+      CheckpointLantern: -1871856785
+      DeadTree: 1848427401
+      GoldenGrass: 371652222
+      RockPlatform: 330444643
+      RootPlatform: -1481994100
+      RuneGate: -490363481
+      SigilStone: -712544272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
