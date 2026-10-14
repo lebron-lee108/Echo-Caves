@@ -2,7 +2,9 @@
 
 四人 Game Development 课程项目。Windows PC、2D 横版平台解谜；少女与蝴蝶双形态。当前版本是开发前置工程，不代表第一章玩法已经实现。
 
-团队私有仓库：https://github.com/lebron-lee108/VP515 。仓库所有者先在 Settings > Collaborators 中邀请组员，受邀成员接受后再克隆。
+团队公开仓库：https://github.com/lebron-lee108/VP515 。公开访问允许查看和克隆，不代表可以直接推送。三名组员必须用自己的账号接受 Collaborator 邀请，获得 Write 权限后再参与提交。
+
+首次加入和日常操作请照着 [组员加入与日常 Git 操作](Docs/Team-Onboarding.md) 执行。李泊良本机继续使用 `E:\VP515`，不需要重复克隆或新建项目。
 
 ## 打开工程
 
@@ -44,7 +46,7 @@ Physics Layer 预留：Player、Butterfly、Shell、TerrainSolid、TerrainData�
 
 ## 每天协作
 
-开始修改前，先提交或保存当前工作，然后在 GitHub Desktop 获取并拉取最新提交。为自己的工作创建 `feature/简短功能名` 分支。提交时附上相关 `.meta`，完成后推送分支并通过 Pull Request 评审合并到 `main`。
+开始同步前，在 Unity 保存并关闭工程，在 GitHub Desktop 提交未完成工作或暂存更改；仅保存场景不等于 Git 工作区已经干净。切回 `main`，Fetch origin 后如有更新则 Pull origin，再创建 `feature/简短功能名` 分支。提交时附上相关 `.meta`，完成后推送分支并通过 Pull Request 评审合并到 `main`。
 
 同一个 `.unity` 场景或复杂 Prefab 同时只由一个人编辑。其他人使用独立场景或 Prefab 交接。不要在电脑文件管理器里单独移动图片、脚本或 `.meta`。
 
