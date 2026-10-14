@@ -5,7 +5,12 @@ namespace VP515.Slice
     {
         public SlicePlayer Player;public Sprite[] Frames,WalkFrames;public SliceAudio Sound;
         SpriteRenderer body;float steps,attack,damage,stride;Vector2 previous;bool wasGrounded;
-        void Start(){Player.AnimatePose=false;body=Player.BodyRenderer;previous=Player.BodyPosition;Player.AttackPerformed+=OnAttack;Player.Damaged+=OnDamage;}
+        void Start(){Player.AnimatePose=false;body=Player.BodyRenderer;Player.AttackPerformed+=OnAttack;Player.Damaged+=OnDamage;Player.ResetPerformed+=ResetPose;ResetPose();}
+        void ResetPose()
+        {
+            steps=attack=damage=stride=0;previous=Player.BodyPosition;wasGrounded=false;
+            if(body){body.color=Color.white;body.flipX=Player.Facing<0;if(Frames!=null&&Frames.Length>0)body.sprite=Frames[0];}
+        }
         void OnAttack(Vector2 p){attack=.25f;}
         void OnDamage(float amount){damage=.2f;}
         void LateUpdate()
@@ -21,6 +26,6 @@ namespace VP515.Slice
             body.color=damage>0?new Color(1,.5f,.4f):Player.Rules.Butterfly?new Color(.55f,.65f,.7f,.75f):Color.white;
             wasGrounded=Player.IsGrounded;
         }
-        void OnDestroy(){if(Player){Player.AttackPerformed-=OnAttack;Player.Damaged-=OnDamage;}}
+        void OnDestroy(){if(Player){Player.AttackPerformed-=OnAttack;Player.Damaged-=OnDamage;Player.ResetPerformed-=ResetPose;}}
     }
 }

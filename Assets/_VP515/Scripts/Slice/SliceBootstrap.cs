@@ -127,10 +127,10 @@ namespace VP515.Slice
         {
             Vector2 p=Player.ActivePosition;
             if(Rules.Butterfly){
-                if(Vector2.Distance(p,World.Sigil.position)<1.3f)return Player.ShellOnPlate?"E  ·  Awaken the sigil":"Your body must hold the pressure plate.";
+                if(Vector2.Distance(p,World.Sigil.position)<=World.InteractionRadius)return Player.ShellOnPlate?"E  ·  Awaken the sigil":"Your body must hold the pressure plate.";
                 return "W A S D  ·  Fly       Q  ·  Return to your body";
             }
-            if(Dew&&Dew.gameObject.activeSelf&&Vector2.Distance(p,Dew.position)<1.3f)return "E  ·  Gather healing dew";
+            if(Dew&&Dew.gameObject.activeSelf&&Vector2.Distance(p,Dew.position)<=World.InteractionRadius)return "E  ·  Gather healing dew";
             if(Vector2.Distance(p,Exit.position)<1.5f)return Rules.EnemyDefeated&&Rules.GateUnlocked?"E  ·  Finish this section":"Clear the creature and open the gate first.";
             if(Vector2.Distance(p,Checkpoint.position)<1.7f)return "E  ·  Rest at the lantern";
             if(p.x>19&&p.x<24&&!Rules.GateUnlocked)return "Q  ·  Leave your body on the plate";
@@ -140,7 +140,7 @@ namespace VP515.Slice
         {
             if(UI.CurrentView!=SliceView.Playing)return;
             if(Rules.Butterfly){
-                if(Vector2.Distance(Player.ActivePosition,World.Sigil.position)<1.3f&&!World.TryActivateSigil())UI.ShowToast("The plate needs the weight of your body.");
+                if(Vector2.Distance(Player.ActivePosition,World.Sigil.position)<=World.InteractionRadius&&!World.TryActivateSigil())UI.ShowToast("The plate needs the weight of your body.");
                 return;
             }
             if(Dew&&World.TryCollectDew(Dew.gameObject)){Collected++;Sound.Chime();Burst(Dew.position,new Color(.35f,.95f,1),8);UI.ShowToast("Healing dew collected. TAB opens your satchel.");return;}

@@ -31,6 +31,7 @@ namespace VP515.Slice
         public event Action<Vector2> AttackPerformed;
         public event Action<float> Damaged;
         public event Action FormChanged;
+        public event Action ResetPerformed;
         public event Action InteractRequested;
         public bool CanAct { get { return canAct; } set { if(canAct==value) return; canAct=value; input=Vector2.zero; jumpBuffer=0; suppressInput=true; SyncPhysics(); } }
         Rigidbody2D body, flight; CapsuleCollider2D capsule; SpriteRenderer girl, wings;
@@ -68,6 +69,7 @@ namespace VP515.Slice
             flight.linearVelocity=Vector2.zero; clock=coyote=jumpBuffer=cooldown=attackTime=poseTime=hurtTime=0;
             input=Vector2.zero; ShellOnPlate=false; IsGrounded=false; Facing=1; suppressInput=true; SyncForm(); SyncPhysics();
             Physics2D.SyncTransforms();
+            ResetPerformed?.Invoke();
         }
         void Update()
         {

@@ -82,6 +82,7 @@ namespace VP515.Slice
                 panel.anchorMax = view == SliceView.Menu ? new Vector2(.43f, .93f) : new Vector2(.745f, .90f);
                 panel.offsetMin = panel.offsetMax = Vector2.zero;
                 Image(panel, Panel, true);
+                panel.gameObject.AddComponent<SlicePanelMotion>();
                 var line = Rect("AmberEdge", panel); line.anchorMin = new Vector2(0, 0); line.anchorMax = new Vector2(0, 1);
                 line.pivot = new Vector2(0, .5f); line.sizeDelta = new Vector2(3, 0); Image(line, new Color(Amber.r, Amber.g, Amber.b, .7f));
                 var layout = panel.gameObject.AddComponent<UnityEngine.UI.VerticalLayoutGroup>();
@@ -114,7 +115,13 @@ namespace VP515.Slice
             CurrentView = view;
             if (built)
             {
-                foreach (var entry in panels) entry.Value.gameObject.SetActive(entry.Key == view);
+                foreach (var entry in panels)
+                {
+                    bool wasVisible=entry.Value.gameObject.activeSelf;
+                    bool visible=entry.Key==view;
+                    entry.Value.gameObject.SetActive(visible);
+                    if(visible){var motion=entry.Value.GetComponent<SlicePanelMotion>();if(!wasVisible||!motion.HasEntered)motion.Enter();}
+                }
                 bool inGame = view == SliceView.Playing || view == SliceView.Paused || view == SliceView.Inventory ||
                     ((view == SliceView.Settings || view == SliceView.Controls) && backStack.Count > 0 && IsGameplayOrigin());
                 hud.gameObject.SetActive(inGame);

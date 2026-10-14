@@ -4,7 +4,9 @@
 
 ## 打开
 
-首轮审阅包位于 `E:/VP515/Builds/Windows/ChapterOneSlice-v04/`，双击 `VP515.exe`。不要只拷走EXE，旁边Data目录与DLL必须一起保留。也可以Unity中打开 `Assets/_VP515/Scenes/ChapterOneSlice.unity`，按Play，点Start Journey。不要打开旧Foundation或Sandboxes内的备份。
+最新夜间审阅包位于 `E:/VP515/Builds/Windows/ChapterOneSlice-v05/`，双击 `VP515.exe`。旧v04保留对照。不要只拷走EXE，旁边Data目录与DLL必须一起保留。也可以Unity中打开 `Assets/_VP515/Scenes/ChapterOneSlice.unity`，按Play，点Start Journey。不要打开旧Foundation或Sandboxes内的备份。
+
+本轮加入面板短淡入、独立风声，改善脚步/挥刀/木质命中，并修正重生动作残留和交互边缘提示。动态预览 `E:/VP515/Evidence/Slice/preview-v06.mp4` 是无声实机录像；听声音请打开游戏，不以录像无声判断游戏音频。
 
 ## 操作
 

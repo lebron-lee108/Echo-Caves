@@ -43,6 +43,9 @@ namespace VP515.Editor
             if(!b||!UnityEditor.EditorApplication.isPlaying)throw new Exception("Play fixture required");
             b.UI.Show(SliceView.Playing);
             Canvas.ForceUpdateCanvases();
+            // A just-reactivated HUD has no rendered Graphic depth until its first camera pass.
+            // Normal gameplay suppresses closing-frame input; this fixture presses the visible HUD.
+            b.CameraRig.GetComponent<Camera>().Render();
             var rect=b.UI.GetComponentsInChildren<RectTransform>(true).First(r=>r.name=="HudInventoryButton");
             var canvas=rect.GetComponentInParent<Canvas>();
             var point=RectTransformUtility.WorldToScreenPoint(canvas.worldCamera,rect.TransformPoint(rect.rect.center));

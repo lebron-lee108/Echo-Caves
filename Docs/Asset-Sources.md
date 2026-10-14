@@ -8,7 +8,7 @@
 - `Assets/_VP515/Art/Slice/SceneryAtlas.png`：同工具生成的透明场景物件；Unity Sprite Data Provider 切为树、根桥、岩石、草、灯、门、符印与蝴蝶，保持原始 atlas 可替换。
 - `Assets/_VP515/Art/Slice/TravelerFrames.png`：同工具生成的八姿态角色图；是 AI 帧组，不冒称专业手绘逐帧动画。Unity 内校正裁切和脚底 pivot，后续由美术同学审阅和替换。
 - `Assets/_VP515/Art/Slice/Thornling.png`：同工具生成的原创枯木小怪。当前移动/攻击靠代码姿态表现，没有整套专属逐帧动画。
-- `SliceAudio.cs`：程序合成的原创音阶环境循环、挥击、木质命中、脚步和符印音，没有采样参考视频的声音。
+- `SliceAudio.cs`：程序合成的原创音阶环境循环、独立低通噪声风床、噪声挥击、木质命中、砂砾脚步和符印音，没有采样参考视频的声音。采样端点/有限幅值检查不是人耳听感或最终输出混音验收。
 - TextMeshPro Essentials：Unity uGUI 包附带资源，通过官方非交互导入入口安装；许可随资源保留。
 - `EffectWhite.asset` 和 `SliceGlow.shader`：代码定义的白色效果载体与软光着色器，不是美术插画。
 

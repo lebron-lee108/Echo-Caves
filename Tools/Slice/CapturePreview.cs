@@ -1,6 +1,6 @@
 if(!UnityEditor.EditorApplication.isPlaying)throw new System.Exception("Play required");
 var camera=UnityEngine.Camera.main;
-string folder="Evidence/Slice/DynamicPreviewV5";
+string folder="Evidence/Slice/DynamicPreviewV6";
 var bootstrap=UnityEngine.Object.FindFirstObjectByType<VP515.Slice.SliceBootstrap>();bootstrap.UI.MenuRequested();
 System.IO.Directory.CreateDirectory(folder);
 var rt=new UnityEngine.RenderTexture(1280,720,24);
