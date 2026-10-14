@@ -37,6 +37,8 @@
 
 首轮审阅候选已交付，不重复从零做场景或生成素材。最新包是 `Builds/Windows/ChapterOneSlice-v04/VP515.exe`，最新实机录像是 `Evidence/Slice/preview-v05.mp4`。V5为499帧，包含菜单；编码及完整解码退出0，抽查菜单/机关/战斗/重玩，攻击相邻姿态脚块已不见。隐藏启动进程37824已按精确EXE路径关闭，Unity已退出Play，保持编辑器开放。
 
+本地切片检查点提交 `34933ce`，分支 `feature/chapter-one-slice`，没有推送公开GitHub或合并main。UnityConnectSettings的用户/编辑器云连接变动未纳入提交，Evidence本地证据也未提交。自行编写的源码/文档空白检查通过；Unity生成序列化资产、元数据和官方TMP原样保留，不为消除自动生成空白手改YAML或供应商着色器。
+
 刚复跑UI12/0、集成9、规则11/0、HUD/鼠标UI攻击/重玩专项均通过；V5录制同时完成28阶段合成键盘通关RESULT PASS。不是真人试玩与最终视觉验收。
 
 1. 用户新意见优先整合；先查看当前包和录像，延续既有风格与玩法。
