@@ -58,6 +58,8 @@ Physics Layer 预留：Player、Butterfly、Shell、TerrainSolid、TerrainData�
 
 Windows 基础构建输出到 `Builds/Windows/Baseline/VP515.exe`，仅供验证工具链。`Docs/Setup` 保存基础配置和构建验证报告；不把空场景构建成功当成游戏完成。
 
+首次Windows基础构建成功，0个错误、1条警告。该警告说明Unity Pipeline没有配置Player运行端连接，因此在导出的游戏中禁用；编辑器CLI连接不受影响，当前也不需要为玩家版本启用远程自动化。
+
 ## English project brief
 
 VP515 is a four-person Windows PC course project built with Unity 6000.3.23f1 and Universal 2D. The planned game is a side-scrolling platform puzzler with human and butterfly forms. This repository currently provides the project foundation, version-control setup and collaboration conventions. Gameplay, final art and player testing remain subsequent work.
