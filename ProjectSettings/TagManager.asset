@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Butterfly
+  - Shell
+  - TerrainSolid
+  - TerrainData
+  - Interactable
+  - Enemy
+  - GameplayTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 515001
+    locked: 0
+  - name: DistantBackground
+    uniqueID: 515002
+    locked: 0
+  - name: FarBackground
+    uniqueID: 515003
+    locked: 0
+  - name: MidBackground
+    uniqueID: 515004
+    locked: 0
+  - name: WorldBack
+    uniqueID: 515005
+    locked: 0
+  - name: Ground
+    uniqueID: 515006
+    locked: 0
+  - name: Actors
+    uniqueID: 515007
+    locked: 0
+  - name: Effects
+    uniqueID: 515008
+    locked: 0
+  - name: Foreground
+    uniqueID: 515009
+    locked: 0
+  - name: UI
+    uniqueID: 515010
+    locked: 0
+  m_RenderingLayers:
+  - Default

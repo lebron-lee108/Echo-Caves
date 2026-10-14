@@ -1,0 +1,7 @@
+{
+  "target": "StandaloneWindows64",
+  "result": "Succeeded",
+  "errors": 0,
+  "warnings": 1,
+  "scope": "Foundation scene only; no gameplay"
+}

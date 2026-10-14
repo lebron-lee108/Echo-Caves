@@ -1,0 +1,41 @@
+# Unity generated data and local editor state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.tmp
+*.log
+sysinfo.txt
+mono_crash.*
+*.blend1
+*.blend1.meta
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pfx
+*.keystore
+*.jks
+# Package manifests AND packages-lock.json remain tracked.
+# Assets, scenes, prefabs and their .meta files remain tracked.
