@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: f867a016f7a58894cb842a0624e4d621
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -457891629192076361
+    second: CampModules_0
+  - first:
+      213: 4548404704284225079
+    second: CampModules_1
+  - first:
+      213: 5038588494563848589
+    second: CampModules_2
+  - first:
+      213: -8231397042624376787
+    second: CampModules_3
+  - first:
+      213: 5558403524643560090
+    second: CampModules_4
+  - first:
+      213: 5991219364508389170
+    second: CampModules_5
+  - first:
+      213: -5204456989893164279
+    second: CampModules_6
+  - first:
+      213: 3352273555708782229
+    second: CampModules_7
+  - first:
+      213: 4930424878007837532
+    second: CampModules_8
+  - first:
+      213: 108907163720570571
+    second: CampModules_9
+  - first:
+      213: -2985004194807776657
+    second: CampModules_10
+  - first:
+      213: 8252181879867576530
+    second: CampModules_11
+  - first:
+      213: -5131372835765782624
+    second: CampModules_12
+  - first:
+      213: 1196433214388739588
+    second: CampModules_13
+  - first:
+      213: 9034223502976818056
+    second: CampModules_14
+  - first:
+      213: 9211724164999171050
+    second: CampModules_15
+  - first:
+      213: 6451022456137558437
+    second: CampModules_16
+  - first:
+      213: -4391039233511283566
+    second: CampModules_17
+  - first:
+      213: -3382849341902948032
+    second: CampModules_18
+  - first:
+      213: 7468544166087281675
+    second: CampModules_19
+  - first:
+      213: 2401567645615544072
+    second: CampModules_20
+  - first:
+      213: 8408840886679365635
+    second: CampModules_21
+  - first:
+      213: 6919101606394160351
+    second: CampModules_22
+  - first:
+      213: -9037569108633319747
+    second: CampModules_23
+  - first:
+      213: -1493365905263698584
+    second: CampModules_24
+  - first:
+      213: -8012616024933264615
+    second: CampModules_25
+  - first:
+      213: -3919992279912862126
+    second: CampModules_26
+  - first:
+      213: 6766803750730482351
+    second: CampModules_27
+  - first:
+      213: 1432149507548536060
+    second: CampModules_28
+  - first:
+      213: 7793848490955404074
+    second: CampModules_29
+  - first:
+      213: 5471564966087507967
+    second: CampModules_30
+  - first:
+      213: 8863578645562151056
+    second: CampModules_31
+  - first:
+      213: 2396046344911029555
+    second: CampModules_32
+  - first:
+      213: 3923054364744222907
+    second: CampModules_33
+  - first:
+      213: 2866509980370770172
+    second: CampModules_34
+  - first:
+      213: 773382150477427724
+    second: CampModules_35
+  - first:
+      213: 6534162458235503701
+    second: CampModules_36
+  - first:
+      213: 879084429392526002
+    second: CampModules_37
+  - first:
+      213: -6382974657517349817
+    second: CampModules_38
+  - first:
+      213: 9050836790477971073
+    second: CampModules_39
+  - first:
+      213: -5158828253596143957
+    second: CampModules_40
+  - first:
+      213: 956935146429647916
+    second: CampModules_41
+  - first:
+      213: -6528550933730066972
+    second: CampModules_42
+  - first:
+      213: -4476353172398121420
+    second: CampModules_43
+  - first:
+      213: 7503509431992939854
+    second: CampModules_44
+  - first:
+      213: -8659947749795397915
+    second: CampModules_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RadioHut
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 171
+        width: 758
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546cc9efed3c4fc408e4a21f1efb1079
+      internalID: 1933672022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToolShed
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 171
+        width: 760
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faaaf2ec7765ff47a1c6a56e4fbc53d
+      internalID: -99737486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RadioHut: 1933672022
+      ToolShed: -99737486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_EchoCaves/Scenes/Chapter01_Continuous.unity
+    guid: 7d858b65b2a1bde49b32b6df43d48beb
+  - enabled: 0
     path: Assets/_VP515/Scenes/ChapterOneSlice.unity
     guid: e221099e35d453c4c9ecbcf9f531a8e8
   - enabled: 0

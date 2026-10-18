@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 29536b29a92e92a4dbed8505132e35a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8796315183391316563
+    second: Structures_0
+  - first:
+      213: -6859328083630855373
+    second: Structures_1
+  - first:
+      213: -5220548635511524404
+    second: Structures_2
+  - first:
+      213: -7403295881574030097
+    second: Structures_3
+  - first:
+      213: -8186654159470883754
+    second: Structures_4
+  - first:
+      213: 8604703715359354312
+    second: Structures_5
+  - first:
+      213: 4590117808203732081
+    second: Structures_6
+  - first:
+      213: -3155063544362211695
+    second: Structures_7
+  - first:
+      213: 3034565751450964344
+    second: Structures_8
+  - first:
+      213: 7334745633840503513
+    second: Structures_9
+  - first:
+      213: -2331405896454041192
+    second: Structures_10
+  - first:
+      213: 4462094631763959000
+    second: Structures_11
+  - first:
+      213: 5784278045246095708
+    second: Structures_12
+  - first:
+      213: 4557125524560567008
+    second: Structures_13
+  - first:
+      213: 6864759486596970168
+    second: Structures_14
+  - first:
+      213: -8623248825039556535
+    second: Structures_15
+  - first:
+      213: -4714661846671816716
+    second: Structures_16
+  - first:
+      213: -2910206902109758164
+    second: Structures_17
+  - first:
+      213: -8714827766058519584
+    second: Structures_18
+  - first:
+      213: 1197479613385819673
+    second: Structures_19
+  - first:
+      213: 1955312801976322841
+    second: Structures_20
+  - first:
+      213: -2396323801965524768
+    second: Structures_21
+  - first:
+      213: 5274760792218544611
+    second: Structures_22
+  - first:
+      213: 4050556176383646638
+    second: Structures_23
+  - first:
+      213: -2061995791879342655
+    second: Structures_24
+  - first:
+      213: 8898310069411976766
+    second: Structures_25
+  - first:
+      213: 2751024091720562736
+    second: Structures_26
+  - first:
+      213: -109285475702696525
+    second: Structures_27
+  - first:
+      213: 9203550862205978265
+    second: Structures_28
+  - first:
+      213: 5166504486865963301
+    second: Structures_29
+  - first:
+      213: 8071423961687678865
+    second: Structures_30
+  - first:
+      213: -7658664259972600935
+    second: Structures_31
+  - first:
+      213: -4173600213739490524
+    second: Structures_32
+  - first:
+      213: 293629885521731324
+    second: Structures_33
+  - first:
+      213: -1028569058072974718
+    second: Structures_34
+  - first:
+      213: 2533823253461804567
+    second: Structures_35
+  - first:
+      213: 8630251632228776753
+    second: Structures_36
+  - first:
+      213: -3665003485871080419
+    second: Structures_37
+  - first:
+      213: 2237747767981757731
+    second: Structures_38
+  - first:
+      213: -1649564805599968260
+    second: Structures_39
+  - first:
+      213: 2435978688387800341
+    second: Structures_40
+  - first:
+      213: 1548188032993097308
+    second: Structures_41
+  - first:
+      213: -1446943071097499339
+    second: Structures_42
+  - first:
+      213: 2919666590837551650
+    second: Structures_43
+  - first:
+      213: -3345897134227280412
+    second: Structures_44
+  - first:
+      213: -2255946190886641133
+    second: Structures_45
+  - first:
+      213: -5734301178922871959
+    second: Structures_46
+  - first:
+      213: 603535372691195225
+    second: Structures_47
+  - first:
+      213: 3959965952845075937
+    second: Structures_48
+  - first:
+      213: -5117066421534510572
+    second: Structures_49
+  - first:
+      213: 4017365553943925098
+    second: Structures_50
+  - first:
+      213: 1298445061019726922
+    second: Structures_51
+  - first:
+      213: 5075536676362816019
+    second: Structures_52
+  - first:
+      213: 9075300825703264942
+    second: Structures_53
+  - first:
+      213: -8544461418270338261
+    second: Structures_54
+  - first:
+      213: 7689310253392946651
+    second: Structures_55
+  - first:
+      213: 6803433378450377461
+    second: Structures_56
+  - first:
+      213: -8657593611016749316
+    second: Structures_57
+  - first:
+      213: 1183833381043911086
+    second: Structures_58
+  - first:
+      213: 3899145508903239558
+    second: Structures_59
+  - first:
+      213: -5779559830719445187
+    second: Structures_60
+  - first:
+      213: 7419171130069602285
+    second: Structures_61
+  - first:
+      213: 8657185912361029518
+    second: Structures_62
+  - first:
+      213: 5039734762487321315
+    second: Structures_63
+  - first:
+      213: -784629657569840031
+    second: Structures_64
+  - first:
+      213: -1410838344557411993
+    second: Structures_65
+  - first:
+      213: -712254890459635646
+    second: Structures_66
+  - first:
+      213: 90399235908709331
+    second: Structures_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BridgeShort
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 618
+        width: 653
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d5e2c3e4252b4a9825228ad16334e
+      internalID: 53605538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BridgeLong
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 616
+        width: 820
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99c9a55dd4cb0469e3c2f92bc1630f
+      internalID: -196106144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catwalk
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 95
+        width: 955
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbccbfa25567bad4d872ff54afd201d8
+      internalID: -255251566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadderArt
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 58
+        width: 103
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b3eeafa7637442bc366de4b9228f7
+      internalID: 1555612615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BridgeLong: -196106144
+      BridgeShort: 53605538
+      Catwalk: -255251566
+      LadderArt: 1555612615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

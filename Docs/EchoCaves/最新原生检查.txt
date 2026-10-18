@@ -1,0 +1,14 @@
+﻿Echo native scene checks: 46/46; PASS
+Presentation checks 12/12: PASS
+World design checks 16/16: PASS
+Route geometry probes 18/18: PASS; structural probes, not a player-controller playtest
+Depth renderer tint GPU probe: PASS white=RGBA(0.000, 0.243, 0.729, 1.000) tinted=RGBA(0.000, 0.043, 0.282, 1.000)
+PASS: 13 views, serialized buttons/TMP, default HUD, 13 map edges, three white boss markers, explicit radio/settlement samples.
+PASS: all view switches, repeated Settings open + Back preserves MainMenu/Pause callers, purchase intent without economy mutation.
+PASS: transient same-action reference replaced; persistent reference reused on repeated repair.
+PASS: 161 labels measured across 13 active views (including hidden HUD examples); no text overflow; clean HUD restored.
+PASS: text bounds and isolated EventSystem. Visual capture still required.
+Prefab round trip: PASS: 13 views, serialized buttons/TMP, default HUD, 13 map edges, three white boss markers, explicit radio/settlement samples.
+PASS: all view switches, repeated Settings open + Back preserves MainMenu/Pause callers, purchase intent without economy mutation.
+PASS: 2389 persistent scene sprites; one active EventSystem; foreign-scene anchor excluded; 9 native module prefab roundtrips
+Automated presentation/geometry checks only; no full player-controller playthrough.

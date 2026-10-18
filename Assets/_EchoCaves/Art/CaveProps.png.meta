@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: d385fe9e65fd88444839fe25e2710f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5749606484918666230
+    second: CaveProps_0
+  - first:
+      213: 1077112491167656804
+    second: CaveProps_1
+  - first:
+      213: -2279954505544515305
+    second: CaveProps_2
+  - first:
+      213: -15215415024781216
+    second: CaveProps_3
+  - first:
+      213: 3347195384708872621
+    second: CaveProps_4
+  - first:
+      213: 5687307452851734857
+    second: CaveProps_5
+  - first:
+      213: 7718878121406602342
+    second: CaveProps_6
+  - first:
+      213: 4003615493108336595
+    second: CaveProps_7
+  - first:
+      213: -5670197684263991060
+    second: CaveProps_8
+  - first:
+      213: 7011609147945031857
+    second: CaveProps_9
+  - first:
+      213: 6838232409612582064
+    second: CaveProps_10
+  - first:
+      213: -856656030841358165
+    second: CaveProps_11
+  - first:
+      213: 32514352940893862
+    second: CaveProps_12
+  - first:
+      213: 8411354204298601060
+    second: CaveProps_13
+  - first:
+      213: 515676067316878485
+    second: CaveProps_14
+  - first:
+      213: 4426318787034080676
+    second: CaveProps_15
+  - first:
+      213: 7520227737161568157
+    second: CaveProps_16
+  - first:
+      213: 1146552194323947187
+    second: CaveProps_17
+  - first:
+      213: 5743734845350150349
+    second: CaveProps_18
+  - first:
+      213: -2613738914751879770
+    second: CaveProps_19
+  - first:
+      213: -1711032502586083551
+    second: CaveProps_20
+  - first:
+      213: 7272672211502236651
+    second: CaveProps_21
+  - first:
+      213: 255761325998142842
+    second: CaveProps_22
+  - first:
+      213: 4514372014971801475
+    second: CaveProps_23
+  - first:
+      213: -7643710526348284848
+    second: CaveProps_24
+  - first:
+      213: 1456961920879199218
+    second: CaveProps_25
+  - first:
+      213: 7748004872458050660
+    second: CaveProps_26
+  - first:
+      213: 4537745470005547978
+    second: CaveProps_27
+  - first:
+      213: 1238564252930805800
+    second: CaveProps_28
+  - first:
+      213: -7660686277209449100
+    second: CaveProps_29
+  - first:
+      213: -7987360722457348703
+    second: CaveProps_30
+  - first:
+      213: 4976520552125900391
+    second: CaveProps_31
+  - first:
+      213: -1289781730797815259
+    second: CaveProps_32
+  - first:
+      213: 6299988780754492755
+    second: CaveProps_33
+  - first:
+      213: 9077032008632073584
+    second: CaveProps_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 940
+        width: 293
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f1c9f816249f48913e7f054849c7c
+      internalID: 2102717582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 940
+        width: 230
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfcee125e8e58a4081bb4f647414fa8
+      internalID: 547321039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 940
+        width: 243
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12157f628338116478d9fa7533021897
+      internalID: 173392941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fern
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 940
+        width: 275
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe1d7f81b3c4942af46080d4ed0078
+      internalID: 1375280385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stalactite
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 627
+        width: 292
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2ffb2339cd8e42960a17404b45d27
+      internalID: -1802263719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rubble
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 627
+        width: 290
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6175f4e5f83a07f40b2a3259ca7bb444
+      internalID: -1024648539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossLip
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 627
+        width: 311
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e16956aa8e98148932bf779aca583f
+      internalID: -1260402662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vine
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 627
+        width: 285
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048cfadf510a6044ab60c965a7499817
+      internalID: -1181033067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valve
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 313
+        width: 275
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4911f2302d1de4baf46b1582798f7c
+      internalID: -1792623314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaker
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 346
+        width: 193
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889471f9435cdca4885ef56a129d3c5c
+      internalID: -1780180619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 313
+        width: 259
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81a51a4b5d54dd4ebc299fd336cf52d
+      internalID: -1023022382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 313
+        width: 282
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2945a4ed83fdf794d8686068f7e6dbab
+      internalID: 1665323652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timber
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 44
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07dc8c8f88e5bf46ade8bb1aa2d6741
+      internalID: -989984744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioDesk
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 41
+        width: 296
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c770c62ffe7ecd4dab6fd1ef6acd994
+      internalID: -740481132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlBox
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 43
+        width: 201
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4417fd477672848b08d8763a499687
+      internalID: 1340197433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 36
+        width: 253
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a97ce0563e2544e8fe2c4df91b089c
+      internalID: 1461989234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ControlBox: 1340197433
+      Crate: 173392941
+      Fan: -1023022382
+      Fern: 1375280385
+      Gate: 1665323652
+      Lantern: 547321039
+      MossLip: -1260402662
+      Mushroom: 2102717582
+      RadioDesk: -740481132
+      Rubble: -1024648539
+      Sign: 1461989234
+      Speaker: -1780180619
+      Stalactite: -1802263719
+      Timber: -989984744
+      Valve: -1792623314
+      Vine: -1181033067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

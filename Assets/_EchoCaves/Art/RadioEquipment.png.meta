@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 1293c7b7d824d8347a33fa89eafac017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1863178664005979829
+    second: RadioEquipment_0
+  - first:
+      213: -4923672608305790597
+    second: RadioEquipment_1
+  - first:
+      213: -3916683212496251782
+    second: RadioEquipment_2
+  - first:
+      213: -2365003586953085869
+    second: RadioEquipment_3
+  - first:
+      213: -5704431659535712364
+    second: RadioEquipment_4
+  - first:
+      213: 8318525640664065936
+    second: RadioEquipment_5
+  - first:
+      213: -9182017589794661989
+    second: RadioEquipment_6
+  - first:
+      213: 5384165345665472586
+    second: RadioEquipment_7
+  - first:
+      213: -2579838109040352825
+    second: RadioEquipment_8
+  - first:
+      213: -4044770139819360092
+    second: RadioEquipment_9
+  - first:
+      213: 6009275905639547205
+    second: RadioEquipment_10
+  - first:
+      213: 21493596954025541
+    second: RadioEquipment_11
+  - first:
+      213: -2514570917215489951
+    second: RadioEquipment_12
+  - first:
+      213: 6038730087395268643
+    second: RadioEquipment_13
+  - first:
+      213: -5945467915638160809
+    second: RadioEquipment_14
+  - first:
+      213: 1521315623772150232
+    second: RadioEquipment_15
+  - first:
+      213: 4100874400410494587
+    second: RadioEquipment_16
+  - first:
+      213: 4576869588995431606
+    second: RadioEquipment_17
+  - first:
+      213: 6709347220776322157
+    second: RadioEquipment_18
+  - first:
+      213: -8852090438122535500
+    second: RadioEquipment_19
+  - first:
+      213: 4250832137580178732
+    second: RadioEquipment_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RadioPlayer
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 627
+        width: 589
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0abfc54ce17bc439e3c36b6cc98812
+      internalID: 797758039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transmitter
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 627
+        width: 380
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908bef0cc0dcc15449a91464fcbe6d96
+      internalID: 1603176882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workbench
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 40
+        width: 714
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223dd569f3515743bca6a1acbd93620
+      internalID: -1731393994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeShelf
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 21
+        width: 394
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e0b0ad774c6c34d978e8c92428ed3a
+      internalID: 1421681205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 53c2bd8d868229d46be4f6f405f973ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RadioPlayer: 797758039
+      TapeShelf: 1421681205
+      Transmitter: 1603176882
+      Workbench: -1731393994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
